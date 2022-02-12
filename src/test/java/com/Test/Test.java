@@ -6,6 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class Test {
 
     WebDriver driver = new ChromeDriver();
+    String ags="hello";
 
 
 }
